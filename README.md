@@ -1,5 +1,6 @@
 <div align="center">
-
+<div align="center">
+        
 ```text
         ____        __  __            __                     
       / __ \____  / /_/ /____  _____/ /   ___  ____  _____ 
@@ -8,6 +9,9 @@
 /_/    \____/\__/\__/\___/_/  /_____/\___/_/ /_/____/
 
 ```
+
+</div>
+
 ### ⚡ Accio Character Data! ⚡
 
 A delightfully over-engineered React toy built to explore the Wizarding World without having to consult an 800-page copy of *Order of the Phoenix*.
